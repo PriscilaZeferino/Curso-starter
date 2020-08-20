@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Módulo 2: Introdução a JavaScript - Exercicio 1</title>
+</head>
+<body>
+    <div class="app">
+        <button id="createSquare">Criar quadrado</button>
+        <br>
+    </div>
+    <script>
+        var createSquare = document.querySelector("button#createSquare");
+        createSquare.onclick = function ()
+        {
+            var divElement = document.createElement('div');
+            divElement.setAttribute('class', 'square');
+
+            var br = document.createElement('br')
+            var addBr = document.querySelector('.app');
+            addBr.appendChild(br)
+            
+
+            divElement.style.width = "100px";
+            divElement.style.height = "100px";
+            divElement.style.backgroundColor = "#f00000";
+
+            var containerElement = document.querySelector('.app');
+            containerElement.appendChild(divElement);
+
+
+
+        }
+    </script>
+</body>
+</html>

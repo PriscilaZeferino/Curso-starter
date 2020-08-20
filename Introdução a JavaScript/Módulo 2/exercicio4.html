@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Módulo 2: Introdução a JavaScript - Exercicio 4</title>
+</head>
+<body>
+    <div class="app">
+        <div class="input">
+            <input type="text" name="nome">
+            <button onclick="adicionar()">Adicionar</button>
+        </div>
+    </div>
+    <script>
+        var nomes = ["Diego", "Gabriel", "Lucas"];
+        
+        var ul = document.createElement('ul');
+        var addUl = document.querySelector('div.app');
+        addUl.appendChild(ul);
+
+        nomes.forEach(function(nome)
+        {   
+            var li = document.createElement('li');
+            var nomes = document.createTextNode(nome);
+            li.appendChild(nomes);
+            
+            var addLi = document.querySelector('div.app ul');
+            addLi.appendChild(li);
+        })
+
+        function adicionar()
+        {
+            var texto = document.querySelector('div.app input').value;
+            
+            var li = document.createElement('li');
+            var nomes = document.createTextNode(texto);
+            li.appendChild(nomes);
+            
+            var addLi = document.querySelector('div.app ul');
+            addLi.appendChild(li);
+            var texto = document.querySelector('div.app input').value = "";
+
+        }
+    </script>
+</body>
+</html>
