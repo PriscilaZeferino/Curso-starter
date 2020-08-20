@@ -1,9 +1,7 @@
 # 📚 Curso-starter
 ### Este repositório contém todas as resoluções dos desafios propostos durante o curso. 
 
-Índice
-=================
-
+=====================================================================================
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -11,8 +9,9 @@
  <a href="#-status-do-projeto">Status do projeto</a> •
  <a href="#-licença">Licença</a> • 
  <a href="#-autora">Autora</a>
-
 </p>
+ =====================================================================================
+
 
 ## 🚀 OBJETIVO: 
 
