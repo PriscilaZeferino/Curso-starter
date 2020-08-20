@@ -1,5 +1,5 @@
 # 📚 Curso-starter
-## Este repositório contém todas as resoluções dos desafios propostos durante o curso. 
+### Este repositório contém todas as resoluções dos desafios propostos durante o curso. 
 
 Índice
 =================
@@ -14,11 +14,11 @@
 
 </p>
 
-# 🚀 OBJETIVO: 
+## 🚀 OBJETIVO: 
 
 <p align="justify"> O objetivo deste repositório é mostrar as resoluções desenvolvidas por mim para os desafios propostos, bem como, ajudar ainda que indiretamente quem está iniciando na àrea e está com dificuldade em resolver os desafios. </p>
 
-# 💻 TECNOLOGIAS:
+## 💻 TECNOLOGIAS:
 
 - Javascript
 - ES6+
@@ -33,7 +33,7 @@
 - Abra o arquivo html do exercicio em questão para ver o arquivo em execução.
 
 
-# 💡 STATUS DO PROJETO:
+## 💡 STATUS DO PROJETO:
  
 🚧  Em construção...  🚧
 
