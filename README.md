@@ -1,5 +1,5 @@
 # 📚 Curso-starter
-### Este repositório contém todas as resoluções dos desafios propostos durante o curso. 
+### Este repositório contém todas as resoluções dos desafios propostos durante o curso. No entanto, apenas dos que foram possiveis ser realizados enquanto o curso starter estava disponível.
 
 ============================================================================
 <p align="center">
