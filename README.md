@@ -4,10 +4,9 @@
 Este repositório contém todas as resoluções dos desafios propostos durante o curso. No entanto, apenas dos que foram possíveis ser realizados enquanto o curso starter estava disponível.
 
 ## Sumário 📑
-
 - [Objetivo](#objetivo)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como visualizar os exercicios localmente](#como-visualizar-os-exercicios-localmente)
+- [Como visualizar os exercícios localmente](#como-visualizar-os-exercícios-localmente)
 - [Status do Projeto](#status-do-projeto)
 - [Autora](#autora)
 - [Informações de Contato](#informações-de-contato)
