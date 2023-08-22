@@ -1,4 +1,4 @@
-# Curso-starter
+# 🚀 Curso-starter 🚀
 
 ## Resumo do Projeto
 Este repositório contém todas as resoluções dos desafios propostos durante o curso. No entanto, apenas dos que foram possíveis ser realizados enquanto o curso starter estava disponível.
