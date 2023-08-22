@@ -1,58 +1,47 @@
-# 📚 Curso-starter
-### Este repositório contém todas as resoluções dos desafios propostos durante o curso. No entanto, apenas dos que foram possiveis ser realizados enquanto o curso starter estava disponível.
+# Curso-starter 📚
 
-============================================================================
-<p align="center">
- <a href="#-objetivo">Objetivo</a> •
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-como-usar">Como usar</a> • 
- <a href="#-status-do-projeto">Status do projeto</a> •
- <a href="#-licença">Licença</a> • 
- <a href="#-autora">Autora</a>
-</p>
- ============================================================================
+## Resumo do Projeto 📋
+Este repositório contém todas as resoluções dos desafios propostos durante o curso. No entanto, apenas dos que foram possíveis ser realizados enquanto o curso starter estava disponível.
 
+## Sumário 📑
 
-## 🚀 OBJETIVO: 
+- [Objetivo](#objetivo)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como visualizar os exercicios localmente](#como-visualizar-os-exercicios-localmente)
+- [Status do Projeto](#status-do-projeto)
+- [Autora](#autora)
+- [Informações de Contato](#informações-de-contato)
 
-<p align="justify"> O objetivo deste repositório é mostrar as resoluções desenvolvidas por mim para os desafios propostos, bem como, ajudar ainda que indiretamente quem está iniciando na àrea e está com dificuldade em resolver os desafios. </p>
+## Objetivo 🎯
+O objetivo deste repositório é mostrar as resoluções desenvolvidas por mim para os desafios propostos, bem como, ajudar ainda que indiretamente quem está iniciando na área e está com dificuldade em resolver os desafios.
 
-## 💻 TECNOLOGIAS:
-
+## Ferramentas/Tecnologias Utilizadas 🛠️
 - Javascript
 - ES6+
 - NodeJS
 - React
 - React Native
 
-## 📢 COMO USAR:
+## Como visualizar os exercicios localmente 📢
+1. Clone este repositório na sua máquina.
+2. Abra a pasta do exercício que deseja visualizar.
+3. Abra o arquivo HTML do exercício em questão para ver o arquivo em execução.
 
-- Clone este repositório na sua máquina.
-- Abra a pasta do exercicio que deseja visualizar.
-- Abra o arquivo html do exercicio em questão para ver o arquivo em execução.
+## Status do Projeto 🚀
+O projeto Curso-starter encontra-se na versão final devido a remoção do curso starter da plataforma utilizada para ver os videos e realizar os exercicios.
 
-
-## 💡 STATUS DO PROJETO:
- 
-🚧  Em construção...  🚧
-
-## 📌 Modalidades 
-
+## Modalidades 📌
 - [X] Introdução a JavaScript.
 - [ ] ES6+.
 - [ ] NodeJS.
 - [ ] React.
 - [ ] React Native.
 
-## 📃 LICENÇA
-Este projeto está sob a licença <a href="https://github.com/PriscilaZeferino/Proffy/blob/master/LICENSE">MIT</a>
+## Autora 👧🏻
 
-## 👧🏻 AUTORA
+Feito com 🧡 por Priscila Zeferino.
 
- Feito com 🧡 por Priscila Zeferino.
- 
-##### ✉ Contato:
+## Informações de Contato 📧
 
-##### Linkedin: <a href="https://www.linkedin.com/in/priscila-zeferino-594b5b175/"> Priscila Zeferino</a>
-
-##### E-mail: priscila.zeferino23@gmail.com
+- Linkedin: [Priscila Zeferino](https://www.linkedin.com/in/priscila-zeferino-594b5b175/)
+- E-mail: priscila.zeferino23@gmail.com
